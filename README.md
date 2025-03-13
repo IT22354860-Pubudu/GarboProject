@@ -1,2 +1,1 @@
-# GarboProject
-WebProject
+# GarboGoWMS
